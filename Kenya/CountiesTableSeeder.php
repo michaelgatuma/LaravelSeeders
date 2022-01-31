@@ -3,7 +3,7 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
-/* Laravel 7.* Seeder for 47 Counties in Kenya with their county codes
+/* Laravel 7.x Seeder for 47 Counties in Kenya with their county codes
  * @Author: Michael Gatuma
  * @Date: Jan 31st 2022
  */

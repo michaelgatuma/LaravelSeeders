@@ -1,2 +1,2 @@
-# LaravelSeeders
+# Laravel Seeders
 Laravel Seeders
